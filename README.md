@@ -1,2 +1,15 @@
-# finderaddrbar_mac
-macOS Finder address bar helper program
+# FinderAddrbar
+macOS Finder address bar utility program like Windows Explorer
+
+https://github.com/user-attachments/assets/c3d8a862-4798-4a90-9aeb-1620bc36aa2d
+
+## Download
+[Click](https://github.com)
+
+## Supported OS
+macOS 11 Big Sur or higher version (Apple Silicon, Intel mac)
+
+## Manual
+[English](https://github.com/bho3538/finderaddrbar_mac/blob/master/manual_en.md)
+
+[한국어](https://github.com/bho3538/finderaddrbar_mac/blob/master/manual_ko.md)
