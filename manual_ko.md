@@ -20,7 +20,9 @@ https://github.com/user-attachments/assets/fd2c3bac-78c7-418c-9ffd-6ea2cb6b4cb5
 
 권한이 정상적으로 부여된 경우 아래와 같이 버튼이 초록색으로 표시됩니다.
 
-이 후, '클릭하여 시작' 을 누르면 프로그램이 동작하며, 시스템 윗부분의 매뉴에 아이콘이 표시되는것을 확인할 수 있습니다.
+이 후, '클릭하여 시작' 을 누르면 프로그램이 동작하며, 시스템 윗부분의 매뉴에 아이콘이 표시되는것을 확인할 수 있습니다.\
+<img width="74" height="35" alt="image" src="https://github.com/user-attachments/assets/9d3cf04b-ba17-4683-bd40-9af80b3aaeb1" />
+
 
 # 추가 설정 (부가 기능, 옵션)
 
