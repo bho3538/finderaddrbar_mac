@@ -7,7 +7,8 @@ https://github.com/user-attachments/assets/c3d8a862-4798-4a90-9aeb-1620bc36aa2d
 [Click](https://github.com)
 
 ## Supported OS
-macOS 11 Big Sur or higher version (Apple Silicon, Intel mac)
+macOS 11 Big Sur or higher version (Compatible up to macOS 26)\
+Support Apple Silicon, Intel mac
 
 ## Manual
 [English](https://github.com/bho3538/finderaddrbar_mac/blob/master/manual_en.md)
