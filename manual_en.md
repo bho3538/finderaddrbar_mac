@@ -22,7 +22,9 @@ After granting each permission in **System Settings**, click **Refresh**.
 Once permissions are granted correctly, the buttons will turn green.
 
 After that, click **Click to Start** to begin using the program.  
-You’ll see the app’s icon appear in the **menu bar** at the top of your screen.
+You’ll see the app’s icon appear in the **menu bar** at the top of your screen.\
+<img width="74" height="35" alt="image" src="https://github.com/user-attachments/assets/6b172cac-579d-4ed6-94f6-038f9b59578f" />
+
 
 # More Options (Optional Features)
 
